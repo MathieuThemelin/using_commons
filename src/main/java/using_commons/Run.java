@@ -12,6 +12,8 @@ public class Run {
 		System.out.println(StringUtils.isEmpty(""));
 
 		System.out.println(StringUtils.isEmpty("Test"));
+		
+		//commentaires
 	}
 
 }
